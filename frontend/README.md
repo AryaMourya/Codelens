@@ -18,7 +18,7 @@ This directory contains the frontend application.
 
 Before getting started, make sure you have:
 
-- Node.js installed (use a version compatible with Vite 8)
+-- Node.js 20.19+ or 22.12+ (required by Vite 8)
 - npm installed
 - Git installed (if cloning the repository)
 - Access to the required frontend environment configuration
